@@ -1,8 +1,8 @@
 /*
 @Author: Sagar Mhantati
-In below code we have created mux which is basically map which stores information about
-<url, handler>. We can register multiple <url, handler> with mux. After that we used
-ListenAndServer function to listen on 3001 port and fulfil those requests.
+
+	- In below code we have created mux which is basically map which stores information about <url, handler>. We can register multiple <url, handler> with mux.
+	- After that we used ListenAndServer function to listen on 3001 port and fulfil those requests.
 */
 
 package main
